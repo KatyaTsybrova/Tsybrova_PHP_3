@@ -1,0 +1,11 @@
+{
+    "name": "urfu/prokoshin",
+    "type": "project",
+    "description": "Lab3Work",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
